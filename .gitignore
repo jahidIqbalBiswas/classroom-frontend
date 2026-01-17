@@ -14,12 +14,9 @@ dist-ssr
 *.local
 
 # Environment variables
-.env
-.env.local
 
 # Editor directories and files
 
-.vscode/_
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -28,3 +25,4 @@ _.ntvs_
 _.njsproj
 _.sln
 \*.sw?
+config.bat
